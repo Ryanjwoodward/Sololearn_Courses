@@ -1,0 +1,88 @@
+/*your CSS code here*/
+.heading{
+	font-size: 20px;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.intro{
+	background-color: #b22222;
+	color: white
+	padding-left: 15px;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
+body{
+	font-family: arial;
+}
+
+.prof{
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.contactinfo{
+	font-size: 20px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #dedede;
+}
+
+.subheading{
+	font-size: 20px;
+	font-weight: bolder;
+	color: #b22222;
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+
+.icon{
+	color: #b22222;
+}
+
+.date{
+	font-size: 20px;
+	color: #b22222;
+	font-weight: bolder:
+}
+
+
+.social{
+	padding-left: 15px;
+}
+.skills ul li{
+	display: flex;
+	margin-bottom: 10px;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: -15px;
+	
+}
+
+.skills ul li .skill_prog{
+ width: 60%
+ height: 5px;
+ position: relative;   
+}
+
+.skills ul li .skill_prog span{
+  position: absolute;
+  height: 100%;
+  background: #dedede;
+  padding-right: 50px;  
+}
+	
+.skill_name{
+	width: 4px;
+}
+
+.skill__per{
+	margin-right: 15px;
+}
+
+img{float: right;}
+
+.icon{float: left;
+}

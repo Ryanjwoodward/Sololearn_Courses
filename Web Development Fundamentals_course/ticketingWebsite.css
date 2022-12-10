@@ -1,0 +1,78 @@
+strong{
+	color: #2493df;
+	
+}
+
+footer{
+	color:#595959;
+	font-size: 14px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+h1{
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+label{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+section{
+	padding: 10px;
+	background-color: white;
+}
+
+body{
+	background-color: #e0e0e0;
+}
+
+#buy{
+	background-color: #687373;
+	margin-top: 10px;
+	color: #fcfcfc;
+	position: fixed;
+	width: 100%;
+}
+
+ul{
+	list-style-type: square;
+	list-style-position: inside;
+	padding-left: 10px;
+}
+
+table{
+	border-collapse: collapse;
+}
+ts, th{
+	border: 1px solud black;
+	padding: 10px;
+}
+
+th{
+	background-color: #2493df;
+	color: white;
+}
+
+input[type="number"]{
+	padding: 2px;
+	text-align: center;
+	width: 50px;
+}
+
+button{
+	background-color: #2493df;
+	border: none;
+	text-color: white;
+	display: flex
+	
+}
+
+img{
+	float:left;
+	padding-right: 10px;
+}
